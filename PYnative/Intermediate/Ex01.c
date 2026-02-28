@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // Practice Problem: Write a function swap(int *a, int *b) that takes the addresses of two integers
 // and swaps their values.
 
@@ -22,7 +21,6 @@ int main( void ) {
 
     printf("After Swap: x = %d, y = %d\n", x, y);
 
-
     return 0;
 }
 
@@ -35,3 +33,5 @@ int swap(int* a, int* b) {
 
     return 0;
 }
+
+// Completed
